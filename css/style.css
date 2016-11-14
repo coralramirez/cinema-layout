@@ -1,0 +1,30 @@
+.search-box input{
+
+   padding: 5px;
+    font-size: 15px;
+}
+
+.search-box .fa-search{
+
+    margin-left: -25px;
+
+}
+
+.estrenos img {
+    width: 100%;
+}
+.cartelera img {
+    width: 100%;
+}
+
+.hero .banner{
+    background: #333 url(../img/banner.jpg)no-repeat;
+    background-size: contain;
+}
+body .estrenos{
+background-color: rgba(239, 177, 38, 0.87);
+}
+
+.pelicula h1{
+    color:  white;
+}
